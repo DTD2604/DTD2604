@@ -1,17 +1,23 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile! I'm Đỗ Thắng (a.k.a **DTD2604** or **Dowin**), a passionate programmer and aspiring software engineer from Vietnam. 🚀  
 
-**DTD2604/DTD2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 **Currently Working From**: Vietnam 🇻🇳  
+- 🌱 **Currently Learning**: Software Engineering at BTEC FPT  
+- 👯 **Looking to Collaborate On**: Exciting software projects and learning opportunities  
+- 💻 **Interests**: Full-stack development, Artificial Intelligence, and crafting meaningful applications for real-world impact  
 
-Here are some ideas to get you started:
+### Skills & Technologies
+- 💡 **Programming Languages**: Python, JavaScript, Java, TypeScript
+- ⚙️ **Frameworks & Tools**: Spring Boot, Node.js, NestJS, ASP.NET, fastApi  
+- 🗃️ **Databases**: PostgreSQL, MySQL  
+- 🎨 **Frontend**: HTML/CSS  
 
-- 🔭 I’m currently working from VietNam
-- 🌱 I’m currently learning Software Engineering
-- 👯 I’m looking to collaborate on Btec fpt
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch  
+- 📫 **Reach Me**: [Email](mailto:dowindev26@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dowin-doubledt-23951a28b/)  
+- 🌐 **Portfolio**: [My Portfolio Website](https://yourportfolio.com) (coming soon!)  
+
+---
+
+🌟 Let's build something amazing together! Feel free to explore my repositories and connect with me if you find anything interesting. 😄  
